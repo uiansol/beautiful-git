@@ -5,6 +5,8 @@ Bash configuration to make your terminal more attractive to work with git.
 * Show active branch when inside git repository
 * Colored info on console
 
+![Example Image](https://github.com/uiansol/beautiful-git/blob/master/beautiful-git.png)
+
 ### How to use
 1. Save git-completion.bash file in your home directory with the rename it to .git-completion.bash
 2. Save git-prompt.sh file in your home directory with the rename it to .git-prompt.sh
